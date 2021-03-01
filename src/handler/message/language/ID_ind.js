@@ -43,8 +43,8 @@ exports.help = () => {
 
 *Support Anonymxs di:*
 
-- saweria.co/rand
-- trakteer.id/lvstr`;
+- pulsa : 0895330379186
+- pulsa : 089654360447`;
 };
 
 exports.tnc = () => {
@@ -64,12 +64,12 @@ Dengan menggunakan source code / bot ini maka anda setuju dengan Syarat dan Kond
     • ujaran kebencian atau diskriminasi berdasarkan usia, jenis kelamin, identitas gender, ras, seksualitas, agama, kebangsaan
 
 
-Source Code BOT : https://github.com/lvstr/Anonymxs
+Source Code BOT : https://github.com/qisyana/Anonymosbot
 Baileys WhatsApp library: https://github.com/adiwajshing/Baileys
 
 *Support Anonymxs di:*
-- saweria.co/rand
-- trakteer.id/lvstr
+- pulsa : 0895330379186
+- pulsa : 089654360447
 
 Best regards, Rand.`;
 };
